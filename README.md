@@ -1,10 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:2f6f6f&height=200&section=header&text=Sumana%20Sarvani%20Vummadisetty&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%26%20Data%20Engineer&descAlignY=58&descSize=20&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:2f6f6f&height=200&section=header&text=Sumana%20Sarvani%20Vummadisetty&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%26%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2f6f6f&center=true&vCenter=true&width=650&lines=Building+trustworthy+AI+systems+on+solid+data+foundations;Retrieval-Augmented+Generation+%7C+Snowflake+Cortex+%7C+LLM+Evaluation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=2f6f6f&center=true&vCenter=true&width=750&lines=Building+trustworthy+AI+systems+on+solid+data+foundations;RAG+%7C+Snowflake+Cortex+%7C+LLM+Evaluation)
 
-[LinkedIn](https://linkedin.com/in/sumana-sarvani-vummadisetty) · [Email](mailto:vsumanasarvani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzJmNmY2ZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D)](https://linkedin.com/in/sumana-sarvani-vummadisetty)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=2f6f6f)](mailto:vsumanasarvani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2f6f6f)](https://github.com/sumanasarvani)
 
 </div>
 
@@ -16,7 +18,11 @@ AI Engineer & Data Engineer with 3+ years of experience building end-to-end inte
 
 My experience spans Retrieval-Augmented Generation, LLM evaluation, and Snowflake Cortex AI, grounded in hands-on data engineering work as a Data Engineer at Cognizant (Hyderabad, India).
 
-> I believe an AI system is only as trustworthy as the data pipeline underneath it — which is why I build both.
+<div align="center">
+
+### *"I believe an AI system is only as trustworthy as the data pipeline underneath it —<br>which is why I build both."*
+
+</div>
 
 ---
 
