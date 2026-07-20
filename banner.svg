@@ -1,0 +1,14 @@
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a2a3a"/>
+      <stop offset="100%" stop-color="#2f6f6f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="200" fill="url(#bgGradient)"/>
+  <path d="M0,160 C250,190 750,130 1000,160 L1000,200 L0,200 Z" fill="#ffffff" opacity="0.08"/>
+  <text x="500" y="95" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700"
+        fill="#ffffff" text-anchor="middle">Sumana Sarvani Vummadisetty</text>
+  <text x="500" y="130" font-family="Helvetica, Arial, sans-serif" font-size="19"
+        fill="#d7e8e8" text-anchor="middle">AI Engineer &amp; Data Engineer</text>
+</svg>

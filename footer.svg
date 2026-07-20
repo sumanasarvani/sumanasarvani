@@ -1,0 +1,14 @@
+<svg width="1000" height="160" viewBox="0 0 1000 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2f6f6f"/>
+      <stop offset="100%" stop-color="#1a2a3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="160" fill="url(#footerGradient)"/>
+  <path d="M0,0 C250,30 750,-30 1000,0 L1000,20 L0,20 Z" fill="#ffffff" opacity="0.08"/>
+  <text x="500" y="70" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700"
+        fill="#ffffff" text-anchor="middle">Retrieval-augmented and ready to connect.</text>
+  <text x="500" y="105" font-family="Helvetica, Arial, sans-serif" font-size="16"
+        fill="#d7e8e8" text-anchor="middle">Currently indexed and ready to be queried — reach out above</text>
+</svg>

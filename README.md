@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:2f6f6f&height=200&section=header&text=Sumana%20Sarvani%20Vummadisetty&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%26%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
+![Banner](./banner.svg)
 
 <div align="center">
 
@@ -10,21 +10,21 @@
 
 </div>
 
----
+![divider](./divider.svg)
 
 ## ▸ About
 
-AI Engineer & Data Engineer with 3+ years of experience building end-to-end intelligent systems — from raw data pipelines to production-ready GenAI applications. Currently pursuing an M.S. in Computer Science at UMBC (graduating May 2026).
+AI Engineer & Data Engineer with 3+ years of experience building end-to-end intelligent systems — from raw data pipelines to production-ready GenAI applications. M.S. in Computer Science from UMBC, where I learned that half of "AI engineering" is really just data engineering with better PR.
 
-My experience spans Retrieval-Augmented Generation, LLM evaluation, and Snowflake Cortex AI, grounded in hands-on data engineering work as a Data Engineer at Cognizant (Hyderabad, India).
+My work spans Retrieval-Augmented Generation, LLM evaluation, and Snowflake Cortex AI, grounded in hands-on data engineering work as a Data Engineer at Cognizant — the kind of experience that makes you obsessive about what happens *before* a model ever sees a prompt.
 
 <div align="center">
 
-### *"I believe an AI system is only as trustworthy as the data pipeline underneath it —<br>which is why I build both."*
+***"I believe an AI system is only as trustworthy as the data pipeline underneath it — which is why I build both."***
 
 </div>
 
----
+![divider](./divider.svg)
 
 ## ▸ Technical Skills
 
@@ -38,7 +38,7 @@ My experience spans Retrieval-Augmented Generation, LLM evaluation, and Snowflak
 | **Cloud & DevOps** | AWS, Docker, CI/CD (Jenkins, GitHub Actions), Git |
 | **Backend & Visualization** | FastAPI, React Native, Tableau, Power BI |
 
----
+![divider](./divider.svg)
 
 ## ▸ Featured Projects
 
@@ -51,10 +51,6 @@ My experience spans Retrieval-Augmented Generation, LLM evaluation, and Snowflak
 | **Cortex Analyst Text-to-SQL** | Natural Language Analytics | Natural language to SQL querying built on Snowflake Cortex. |
 | **CBT Stress-Reduction Application** | Applied AI, Mobile | Full-stack AI mobile app (React Native, FastAPI, LLaMA 3.1) with crisis detection and adaptive response logic. |
 
----
+![divider](./divider.svg)
 
-<div align="center">
-
-*99.9% uptime on good ideas — always happy to connect.*
-
-</div>
+![Footer](./footer.svg)
