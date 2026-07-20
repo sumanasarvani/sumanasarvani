@@ -1,10 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:2f6f6f&height=200&section=header&text=Sumana%20Sarvani%20Vummadisetty&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%26%20Data%20Engineer&descAlignY=58&descSize=20&animation=fadeIn)
+
 <div align="center">
 
-# Sumana Sarvani Vummadisetty
-
-**AI Engineer & Data Engineer**
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+trustworthy+AI+systems+on+solid+data+foundations;Retrieval-Augmented+Generation+%7C+Snowflake+Cortex+%7C+LLM+Evaluation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2f6f6f&center=true&vCenter=true&width=650&lines=Building+trustworthy+AI+systems+on+solid+data+foundations;Retrieval-Augmented+Generation+%7C+Snowflake+Cortex+%7C+LLM+Evaluation)
 
 [LinkedIn](https://linkedin.com/in/sumana-sarvani-vummadisetty) · [Email](mailto:vsumanasarvani@gmail.com)
 
